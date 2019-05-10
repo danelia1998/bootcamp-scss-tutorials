@@ -35,6 +35,8 @@ $color-3: #222533;
     font-size: 14px;
     padding: 11px 37px 10.8px 37.1px;
     text-transform: uppercase;
+    border: none;
+    cursor: pointer;
     &.medium{
         font-size: 18px;
         padding: 14px 46px;
@@ -50,4 +52,19 @@ $color-3: #222533;
     &:hover{
         background-color:$color-3 ;
     }
+    &.round{
+        &-3{
+            border-radius: 3px;
+        }
+        &-7{
+            border-radius: 7px;
+        }
+        &-12{
+            border-radius: 12px;
+        }
+        &-20{
+            border-radius: 20px;
+        }
+    }
+
 }
