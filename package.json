@@ -20,7 +20,7 @@
     "htmllint-cli": "^0.0.7",
     "light-server": "^2.6.2",
     "stylelint": "^10.0.1",
-    "stylelint-config-property-sort-order-smacss": "^4.0.2",
+    "stylelint-config-property-sort-order-smacss": "^4.0.2npm ",
     "stylelint-config-standard": "^18.3.0",
     "stylelint-scss": "^3.6.1"
   }
